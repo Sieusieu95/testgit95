@@ -1,1 +1,2 @@
 nọi dung chèn git
+them noi dung o dau sever
